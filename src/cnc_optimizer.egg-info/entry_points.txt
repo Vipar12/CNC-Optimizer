@@ -1,0 +1,2 @@
+[console_scripts]
+cnc-optimizer = cnc_optimizer.cli.main:main
